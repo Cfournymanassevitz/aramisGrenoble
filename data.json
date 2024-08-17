@@ -1,0 +1,265 @@
+{
+ "Export": [
+  {
+   "agence": "VAD RENNES",
+   "Projection totale": 7375.673981191223,
+   "%Projection totale": 0.9283415961222433,
+   "nb_commande_net": 7002.5,
+   "RAF VENTE JOUR": 0.17054726125818945
+  },
+  {
+   "agence": "VAD VITRE",
+   "Projection totale": 3449.5297805642635,
+   "%Projection totale": 1.0033536301815775,
+   "nb_commande_net": 3275,
+   "RAF VENTE JOUR": 0.07976326749311966
+  },
+  {
+   "agence": "BORDEAUX",
+   "Projection totale": 2247.1974921630094,
+   "%Projection totale": 1.294468601476388,
+   "nb_commande_net": 2133.5,
+   "RAF VENTE JOUR": 0.05196181105238803
+  },
+  {
+   "agence": "SAINT-GERMAIN-EN-LAYE",
+   "Projection totale": 1705.805642633229,
+   "%Projection totale": 0.9826069370007079,
+   "nb_commande_net": 1619.5,
+   "RAF VENTE JOUR": 0.039443240215299935
+  },
+  {
+   "agence": "LYON",
+   "Projection totale": 1682.6332288401254,
+   "%Projection totale": 0.9692587723733441,
+   "nb_commande_net": 1597.5,
+   "RAF VENTE JOUR": 0.03890742589931562
+  },
+  {
+   "agence": "PARIS - ARCUEIL",
+   "Projection totale": 1543.5987460815047,
+   "%Projection totale": 1.0443834547236162,
+   "nb_commande_net": 1465.5,
+   "RAF VENTE JOUR": 0.035692540003409726
+  },
+  {
+   "agence": "CERGY-PONTOISE",
+   "Projection totale": 1468.8150470219437,
+   "%Projection totale": 0.9937855527888658,
+   "nb_commande_net": 1394.5,
+   "RAF VENTE JOUR": 0.03396332107455126
+  },
+  {
+   "agence": "AIX-EN-PROVENCE",
+   "Projection totale": 1404.564263322884,
+   "%Projection totale": 0.8090807968449792,
+   "nb_commande_net": 1333.5,
+   "RAF VENTE JOUR": 0.032477654107503834
+  },
+  {
+   "agence": "TOULOUSE",
+   "Projection totale": 1335.0470219435736,
+   "%Projection totale": 0.9903909658335115,
+   "nb_commande_net": 1267.5,
+   "RAF VENTE JOUR": 0.03087021115955089
+  },
+  {
+   "agence": "ROUEN",
+   "Projection totale": 1206.0188087774295,
+   "%Projection totale": 1.0343214483511403,
+   "nb_commande_net": 1145,
+   "RAF VENTE JOUR": 0.027886699627365497
+  },
+  {
+   "agence": "RENNES",
+   "Projection totale": 1143.347962382445,
+   "%Projection totale": 1.1122061890879815,
+   "nb_commande_net": 1085.5,
+   "RAF VENTE JOUR": 0.026437565454589737
+  },
+  {
+   "agence": "LILLE",
+   "Projection totale": 1045.9184952978057,
+   "%Projection totale": 0.8970141469106396,
+   "nb_commande_net": 993,
+   "RAF VENTE JOUR": 0.0241847098078375
+  },
+  {
+   "agence": "METZ",
+   "Projection totale": 1040.652037617555,
+   "%Projection totale": 1.0123074295890613,
+   "nb_commande_net": 988,
+   "RAF VENTE JOUR": 0.024062933826931976
+  },
+  {
+   "agence": "MELUN",
+   "Projection totale": 1023.7993730407524,
+   "%Projection totale": 0.878044059211623,
+   "nb_commande_net": 972,
+   "RAF VENTE JOUR": 0.023673250688034293
+  },
+  {
+   "agence": "LES ULIS",
+   "Projection totale": 1014.846394984326,
+   "%Projection totale": 0.8703656903810686,
+   "nb_commande_net": 963.5,
+   "RAF VENTE JOUR": 0.023466231520494898
+  },
+  {
+   "agence": "STRASBOURG",
+   "Projection totale": 992.2006269592476,
+   "%Projection totale": 0.9651757071588012,
+   "nb_commande_net": 942,
+   "RAF VENTE JOUR": 0.022942594802601135
+  },
+  {
+   "agence": "MONTPELLIER",
+   "Projection totale": 964.8150470219435,
+   "%Projection totale": 0.8274571586809121,
+   "nb_commande_net": 916,
+   "RAF VENTE JOUR": 0.0223093597018924
+  },
+  {
+   "agence": "GRENOBLE",
+   "Projection totale": 946.9090909090909,
+   "%Projection totale": 0.9211177927131234,
+   "nb_commande_net": 899,
+   "RAF VENTE JOUR": 0.02189532136681361
+  },
+  {
+   "agence": "DONZERE",
+   "Projection totale": 904.2507836990595,
+   "%Projection totale": 1.146071969200329,
+   "nb_commande_net": 858.5,
+   "RAF VENTE JOUR": 0.020908935921478848
+  },
+  {
+   "agence": "NANTES",
+   "Projection totale": 878.9717868338558,
+   "%Projection totale": 0.8550309210446069,
+   "nb_commande_net": 834.5,
+   "RAF VENTE JOUR": 0.02032441121313232
+  },
+  {
+   "agence": "TOULON",
+   "Projection totale": 864.2257053291536,
+   "%Projection totale": 1.0953430992764939,
+   "nb_commande_net": 820.5,
+   "RAF VENTE JOUR": 0.019983438466596847
+  },
+  {
+   "agence": "AVIGNON",
+   "Projection totale": 826.833855799373,
+   "%Projection totale": 1.0479516550055425,
+   "nb_commande_net": 785,
+   "RAF VENTE JOUR": 0.019118829002167614
+  },
+  {
+   "agence": "ANNECY",
+   "Projection totale": 805.7680250783699,
+   "%Projection totale": 1.0212522497824714,
+   "nb_commande_net": 765,
+   "RAF VENTE JOUR": 0.01863172507854551
+  },
+  {
+   "agence": "TOURS",
+   "Projection totale": 750.9968652037618,
+   "%Projection totale": 0.9518337962024864,
+   "nb_commande_net": 713,
+   "RAF VENTE JOUR": 0.017365254877128037
+  },
+  {
+   "agence": "NICE",
+   "Projection totale": 743.6238244514107,
+   "%Projection totale": 0.9424890043744115,
+   "nb_commande_net": 706,
+   "RAF VENTE JOUR": 0.0171947685038603
+  },
+  {
+   "agence": "REIMS",
+   "Projection totale": 731.5109717868338,
+   "%Projection totale": 0.9271368463711455,
+   "nb_commande_net": 694.5,
+   "RAF VENTE JOUR": 0.01691468374777759
+  },
+  {
+   "agence": "CLERMONT-FERRAND",
+   "Projection totale": 729.9310344827586,
+   "%Projection totale": 0.9251343909794152,
+   "nb_commande_net": 693,
+   "RAF VENTE JOUR": 0.016878150953505932
+  },
+  {
+   "agence": "CANNES",
+   "Projection totale": 723.0846394984326,
+   "%Projection totale": 0.9164570842819171,
+   "nb_commande_net": 686.5,
+   "RAF VENTE JOUR": 0.016719842178328746
+  },
+  {
+   "agence": "NEMOURS",
+   "Projection totale": 706.2319749216301,
+   "%Projection totale": 1.1156903237308533,
+   "nb_commande_net": 670.5,
+   "RAF VENTE JOUR": 0.016330159039431063
+  },
+  {
+   "agence": "DIJON",
+   "Projection totale": 672.5266457680251,
+   "%Projection totale": 0.8523785117465464,
+   "nb_commande_net": 638.5,
+   "RAF VENTE JOUR": 0.015550792761635695
+  },
+  {
+   "agence": "CAEN",
+   "Projection totale": 616.1755485893417,
+   "%Projection totale": 0.9734210878188653,
+   "nb_commande_net": 585,
+   "RAF VENTE JOUR": 0.014247789765946565
+  },
+  {
+   "agence": "SAINTE-GENEVIEVE-DES-BOIS",
+   "Projection totale": 576.1504702194358,
+   "%Projection totale": 0.9101903163024262,
+   "nb_commande_net": 547,
+   "RAF VENTE JOUR": 0.013322292311064566
+  },
+  {
+   "agence": "POITIERS",
+   "Projection totale": 575.0971786833856,
+   "%Projection totale": 0.9085263486309408,
+   "nb_commande_net": 546,
+   "RAF VENTE JOUR": 0.01329793711488346
+  },
+  {
+   "agence": "BREST",
+   "Projection totale": 548.2382445141066,
+   "%Projection totale": 0.8660951730080673,
+   "nb_commande_net": 520.5,
+   "RAF VENTE JOUR": 0.012676879612265277
+  },
+  {
+   "agence": "LE MANS",
+   "Projection totale": 2.1065830721003134,
+   "%Projection totale": 0.044820916427666245,
+   "nb_commande_net": 2,
+   "RAF VENTE JOUR": 4.871039236221048E-05
+  },
+  {
+   "agence": "Total",
+   "Projection totale": 43247.09717868338,
+   "%Projection totale": 0.9674965811785992,
+   "nb_commande_net": 41059,
+   "RAF VENTE JOUR": 1,
+   "Objectifs Vente": 44700,
+   "Projection VN": 16700.990595611285,
+   "%Projection VN": 0.9435189816743375,
+   "Vente nettes VN": 15856,
+   "Obj. Mois VN": 17700.746799999997,
+   "Projection VO": 26546.1065830721,
+   "%Projection VO": 0.9641330220994011,
+   "Vente nettes VO": 25203,
+   "Obj. Mois VO": 27533.655600000002
+  }
+ ]
+}
